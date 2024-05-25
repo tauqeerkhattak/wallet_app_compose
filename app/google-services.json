@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582395722341",
+    "project_id": "wallet-app-792fc",
+    "storage_bucket": "wallet-app-792fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582395722341:android:0292a8dd5e78560303248c",
+        "android_client_info": {
+          "package_name": "com.tauqeer.walletapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvRNhNCFmzSrwXOxpGIBLG1ApqHcIZXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
